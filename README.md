@@ -1,5 +1,4 @@
-# backend-development-workspace
-
+## backend-development-workspace
 
 **Author:** DaKoda Gillian  
 **Purpose:** This repository serves as my digital notebook for tracking backend development projects, lessons learned, and useful resources throughout the course.
